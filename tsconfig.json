@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "es2019",
+    "composite": true,
+  }
+}
